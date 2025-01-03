@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madupadilshan/online-polling-system.git/static/css/main.e9b81de4.css",
+    "main.js": "/madupadilshan/online-polling-system.git/static/js/main.8f6f5fc0.js",
+    "static/js/156.d037abe2.chunk.js": "/madupadilshan/online-polling-system.git/static/js/156.d037abe2.chunk.js",
+    "index.html": "/madupadilshan/online-polling-system.git/index.html",
+    "main.e9b81de4.css.map": "/madupadilshan/online-polling-system.git/static/css/main.e9b81de4.css.map",
+    "main.8f6f5fc0.js.map": "/madupadilshan/online-polling-system.git/static/js/main.8f6f5fc0.js.map",
+    "156.d037abe2.chunk.js.map": "/madupadilshan/online-polling-system.git/static/js/156.d037abe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9b81de4.css",
+    "static/js/main.8f6f5fc0.js"
+  ]
+}
